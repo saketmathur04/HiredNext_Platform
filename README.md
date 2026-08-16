@@ -54,6 +54,19 @@ This project goes far beyond a standard CRUD application; it demonstrates the in
       <img src="public/screenshots/4.png" alt="Authentication" style="border-radius:10px;" />
     </td>
   </tr>
+  </tr>
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <h3>📝 Detailed Feedback</h3>
+      <p><i>Comprehensive performance breakdown with scores, strengths, and areas for improvement.</i></p>
+      <img src="public/screenshots/5.png" alt="Feedback Overview" style="border-radius:10px;" />
+    </td>
+    <td style="width: 50%; text-align: center;">
+      <h3>🚀 Production Deployed</h3>
+      <p><i>Live and running securely on Vercel with optimized performance.</i></p>
+      <img src="public/screenshots/6.png" alt="Vercel Deployment" style="border-radius:10px;" />
+    </td>
+  </tr>
 </table>
 
 ---
