@@ -284,32 +284,6 @@ bun run dev
 
 ---
 
-## 🎓 Why This Is a Strong Final-Year Project
-
-This project demonstrates a transition from academic programming to professional software engineering:
-- **Full-Stack Proficiency:** It successfully bridges the gap between a complex interactive client (React/Audio) and secure, robust server-side data mutations.
-- **AI Engineering:** It goes beyond simple "chatbots" by utilizing programmatic structured LLM outputs and real-time voice streaming.
-- **Architecture Design:** It proves an understanding of when to use API routes vs Server Actions, how to manage client/server authentication boundaries, and how to model NoSQL data efficiently.
-
----
-
-## 💼 Recruiter Snapshot
-
-| Skill | Demonstrated Through |
-|---|---|
-| **Frontend Engineering** | Next.js 15 App Router, React hooks, highly responsive Tailwind styling. |
-| **AI Integration** | Vercel AI SDK, Gemini API, structured data parsing, Vapi WebRTC audio. |
-| **Backend & Cloud** | Firebase Admin integration, Next.js Server Actions, secure environment variables. |
-| **Product Design** | Intuitive user flow, detailed onboarding, beautiful analytics visualization. |
-
----
-
-## 📌 Project Metadata
-
-- **Project Type:** Final Year Project / Full-Stack AI Product
-- **Category:** AI / EdTech / Interview Preparation
-- **Architecture:** Full-stack Serverless Web Application
-- **Core Theme:** Real-time AI-powered mock interviews
 
 <br />
 
